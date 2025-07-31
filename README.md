@@ -173,4 +173,4 @@ The solution demonstrates that sometimes the most elegant approach is not about 
 
 ## 🎓 Course
 
-This project was completed as part of the **MOOC.fi Python Programming course** with a perfect score of **1/1 points**.
+This project was completed as part of the **MOOC.fi Python Programming course**.

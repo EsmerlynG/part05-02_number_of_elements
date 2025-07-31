@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Course](https://img.shields.io/badge/MOOC.fi-Python%20Programming-lightgrey)
-![Points](https://img.shields.io/badge/Points-1%2F1-success)
 
 A clean and efficient Python function that counts how many elements within a two-dimensional matrix match a specified target value. This exercise demonstrates matrix traversal, built-in list methods, and clean code principles.
 
